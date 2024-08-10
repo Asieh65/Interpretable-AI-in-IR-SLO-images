@@ -1,1 +1,2 @@
-# Interpretable-AI-in-IR-SLO-images
+Interpretable AI for Analyzing Retinal Vessel Morphology in Multiple Sclerosis Using IR-SLO Images :
+This project investigates whether any multiple sclerosis (MS)-specific features can be identified within infrared reflectance scanning laser ophthalmoscopy (IR-SLO) images. The project involves segmenting IR-SLO images into distinct anatomical structures, extracting clinical features from these structures, and evaluating their importance for distinguishing between MS and healthy controls (HC).
